@@ -552,19 +552,13 @@ nav {
   border-radius: 10px;
   box-shadow: 0.2px 0.2px 10px rgb(231, 231, 231);
   padding-left: 23px;
+  justify-content: end;
 }
 
 .s8d2img1 {
   width: 90px;
   height: 90px;
   position: absolute;
-  left: 546px;
-}
-.s8d2img2 {
-  width: 90px;
-  height: 90px;
-  position: absolute;
-  left: 1111px;
 }
 
 .section8div3 {
@@ -806,13 +800,13 @@ footer {
   font-size: 11px;
 }
 
-.footcontimg{
+.footcontimg {
   margin-top: 0px;
   width: 15px;
   height: 15px;
 }
 
-.fdEnd{
+.fdEnd {
   display: flex;
   font-size: 12px;
   justify-content: center;
@@ -822,12 +816,12 @@ footer {
   padding-top: 20px;
 }
 
-.fdendul{
-display: flex;
-list-style: none;
-margin-left: 350px;
+.fdendul {
+  display: flex;
+  list-style: none;
+  margin-left: 350px;
 }
 
-.fdendulli{
+.fdendulli {
   margin-right: 60px;
 }
